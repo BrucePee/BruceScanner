@@ -1,2 +1,2 @@
 # BruceScanner
-A Simple Python PortScanner
+[Version 1.0]Classic Port Scanner
